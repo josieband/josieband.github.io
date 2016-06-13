@@ -1,0 +1,11 @@
+# Site settings
+title: Josie Band
+# email: your-email@domain.com
+description: Soulful, sassy, sexy, Josie brings a delicious blend of pop, soul, blues and funk to make you want to get up offa that thing and get DOWN.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+# twitter_username: jekyllrb
+# github_username:  jekyll
+
+# Build settings
+markdown: kramdown
